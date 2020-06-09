@@ -27,11 +27,11 @@ Template `udagram.yml` creates both network and server infrastructure.
    ```
 3. Check `Outputs` section of created stack in AWS Console. Public LoadBalancer URL should be displayed there.
 
-![LoadBalancer Outputs](./img/cloudformation_stack_output.png)
+![LoadBalancer Outputs](https://github.com/KrainskiL/CloudFormation-HA-App/blob/master/img/cloudformation_stack_output.PNG?raw=true)
 
 4. Enjoy your high availability app!
 
-![Udagram_app](./img/udagram_mainpage.png)
+![Udagram_app](https://github.com/KrainskiL/CloudFormation-HA-App/blob/master/img/udagram_mainpage.PNG?raw=true)
 
 5. To delete stack use 
    ```bash
